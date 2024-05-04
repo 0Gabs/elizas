@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="logo.png" type="image/png">
+    <title>Personagem Escolhido</title>
+    <style>
+        body {
+            font-family: 'Old Standard TT', serif;
+            background-color: #f5e6da;
+            margin: 0;
+            padding: 0;
+        }
+
+        .logo {
+            display: block;
+            margin: 20px auto;
+            max-width: 200px;
+        }
+
+        .titulo {
+            font-size: 32px;
+            text-align: center;
+            margin: 30px 0;
+            color: #8b4513; /* Marrom escuro */
+            text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+        }
+
+        #individual {
+            text-align: center;
+        }
+
+        .card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            padding: 20px;
+            text-align: center;
+            max-width: 400px;
+        }
+
+        .card img {
+            width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            margin: 0;
+            color: #8b4513; /* Marrom escuro */
+        }
+
+        .voltar {
+            display: inline-block;
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #8b4513; /* Marrom escuro */
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .voltar:hover {
+            background-color: #6b2a0d; /* Marrom mais escuro */
+        }
+    </style>
+</head>
+<body>
+    <img src="logo.png" class="logo" alt="logo">
+    <h1 class="titulo">Seu Personagem</h1>
+    <div id="individual">
+        <!-- Aqui serão exibidos os detalhes do personagem escolhido -->
+    </div>
+    <a href="index.html" class="voltar">Voltar</a>
+    <script src="jquerry.min.js"></script>
+    <script src="js.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,82 @@
+<personagens>
+    <personagem>
+        <id>1</id>
+        <nome>Arthur Morgan</nome>
+        <tipo>Protagonista</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>40</idade>
+        <ocupação>Gângster</ocupação>
+    </personagem>
+    <personagem>
+        <id>2</id>
+        <nome>John Marston</nome>
+        <tipo>Protagonista</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>36</idade>
+        <ocupação>Ex-Gângster</ocupação>
+    </personagem>
+    <personagem>
+        <id>3</id>
+        <nome>Dutch van der Linde</nome>
+        <tipo>Antagonista</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>50</idade>
+        <ocupação>Líder da Gang</ocupação>
+    </personagem>
+    <personagem>
+        <id>4</id>
+        <nome>Abigail Roberts</nome>
+        <tipo>Personagem Secundário</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>32</idade>
+        <ocupação>Esposa de John Marston</ocupação>
+    </personagem>
+    <personagem>
+        <id>5</id>
+        <nome>Slim Grant</nome>
+        <tipo>Personagem Secundário</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>10</idade>
+        <ocupação>Filho de John Marston</ocupação>
+    </personagem>
+    <personagem>
+        <id>6</id>
+        <nome>Sadie Adler</nome>
+        <tipo>Personagem Secundário</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>28</idade>
+        <ocupação>Membro da Gang</ocupação>
+    </personagem>
+    <personagem>
+        <id>7</id>
+        <nome>Hosea Matthews</nome>
+        <tipo>Personagem Secundário</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>55</idade>
+        <ocupação>Veterano da Gang</ocupação>
+    </personagem>
+    <personagem>
+        <id>8</id>
+        <nome>Leopold Strauss</nome>
+        <tipo>Personagem Secundário</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>60</idade>
+        <ocupação>Pagador de Dívidas</ocupação>
+    </personagem>
+    <personagem>
+        <id>9</id>
+        <nome>Charles Smith</nome>
+        <tipo>Personagem Secundário</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>35</idade>
+        <ocupação>Rastreador</ocupação>
+    </personagem>
+    <personagem>
+        <id>10</id>
+        <nome>Bill Williamson</nome>
+        <tipo>Antagonista</tipo>
+        <afiliação>Van der Linde Gang</afiliação>
+        <idade>45</idade>
+        <ocupação>Braço Direito de Dutch</ocupação>
+    </personagem>
+</personagens>
